@@ -62,15 +62,21 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\World Interactions\ButtonInteraction.cs" />
     <Compile Include="Assets\Scripts\World Interactions\NoteInteraction.cs" />
+    <Compile Include="Assets\Low Poly Flat Sci Fi Assets\Demo\Scripts\DoubleSlidingDoorController.cs" />
     <Compile Include="Assets\Scripts\Player\Interaction.cs" />
+    <Compile Include="Assets\Low Poly Flat Sci Fi Assets\Demo\Scripts\FlickeringLight.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\World Interactions\DoorInteraction.cs" />
     <Compile Include="Assets\Scripts\Player\Footsteps.cs" />
+    <Compile Include="Assets\Scripts\Flashlight.cs" />
     <Compile Include="Assets\Scripts\World Interactions\EventTriggerCollider.cs" />
     <Compile Include="Assets\Scripts\GUIManager.cs" />
     <Compile Include="Assets\Scripts\Player\MouseLook.cs" />
     <Compile Include="Assets\Scripts\World Interactions\Interactable.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Low Poly Flat Sci Fi Assets\Documentation\readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
