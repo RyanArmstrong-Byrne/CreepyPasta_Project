@@ -1,11 +1,15 @@
 // Ryan Armstrong-Byrne
 //20/05.2024
 
+using JetBrains.Annotations;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Experimental.GlobalIllumination;
+using UnityEngine.UI;
 
 public class Flashlight : MonoBehaviour
 {
@@ -13,10 +17,15 @@ public class Flashlight : MonoBehaviour
     bool flashEnabled;
 
     public int maxCharge = 3;
-    private int currentCharge = 3;
-    private float chargetime = 10;
-    private float timer = 1f;
-
+    public int currentCharge = 3;
+    public float chargetime = 10;
+    public float timer = 1f;
+    public Image Image;
+    public float holdInteract = 0f;
+    public float interactTime = 5;
+    private Coroutine CoRo;
+    public Image GetChargeBar;
+    public bool Actionstarted;
     private void Awake()
     {
         TryGetComponent(out flashLight);
@@ -31,6 +40,10 @@ public class Flashlight : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (currentCharge > maxCharge)
+        {
+            currentCharge = maxCharge;
+        }
         if (Input.GetKeyDown(KeyCode.F) == true)
         {
             ToggleFlashLight(!flashLight.enabled);
@@ -49,20 +62,55 @@ public class Flashlight : MonoBehaviour
                 }
                 timer = 0;
             }
+            Image.fillAmount = timer / 10;
+            if (currentCharge == 0 && flashLight.enabled == false)
+            {
+                Image.fillAmount = 1;
+            }
 
         }
     }
 
+    public void GetCharge()
+    {
 
+        CoRo = StartCoroutine(ChargeRoroutine());
+        Actionstarted = true;
+        if (holdInteract >= interactTime)
+        {
+            holdInteract = interactTime;
+
+        }
+    }
+    private IEnumerator ChargeRoroutine()
+    {
+        while (!Input.GetKeyUp(KeyCode.E))
+        {
+            GetChargeBar.fillAmount = holdInteract / 5;
+            holdInteract += Time.deltaTime;
+            if (holdInteract >= interactTime)
+            {
+                Debug.Log("Charge Added");
+                currentCharge += 1;
+
+                holdInteract = 0;
+                GetChargeBar.fillAmount = 0;
+                break;
+
+            }
+            yield return null;
+            StopCoroutine(ChargeRoroutine());
+           
+        }
+    }
     public void ToggleFlashLight(bool toggle)
     {
-        if(flashLight != null)
+        if (flashLight != null)
         {
             if (toggle == false || toggle == true && (currentCharge > 0 || timer > 0))
-        {
+            {
                 flashLight.enabled = toggle;
             }
         }
     }
-
 }

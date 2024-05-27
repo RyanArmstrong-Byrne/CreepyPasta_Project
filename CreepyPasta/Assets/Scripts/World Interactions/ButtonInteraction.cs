@@ -57,6 +57,7 @@ public class ButtonInteraction : Interactable
     {
         if (base.OnInteract(out engagedAction) == true)
         {
+            Debug.Log("Button Pressed");
             interactionEvents.Invoke();
             if (disableOnSuccessfulInteraction == true)
             {
