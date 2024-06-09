@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|c:\\users\\ryana\\documents\\github\\creepypasta_project\\creepypasta\\assets\\scripts\\to_level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\to_level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\buttonpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\buttonpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ryana\\documents\\github\\creepypasta_project\\creepypasta\\assets\\scripts\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\player\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Tafe\\Intro to Games\\ATO3_Cabin_In_The_Woods\\Assets\\Scripts\\Teleport_Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\low poly flat sci fi assets\\demo\\scripts\\flickeringlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\low poly flat sci fi assets\\demo\\scripts\\flickeringlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\world interactions\\doorinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world interactions\\doorinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\world interactions\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world interactions\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\world interactions\\buttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world interactions\\buttoninteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\world interactions\\eventtriggercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world interactions\\eventtriggercollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\low poly flat sci fi assets\\documentation\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\low poly flat sci fi assets\\documentation\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "To_Level_1.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\To_Level_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\To_Level_1.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\To_Level_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\To_Level_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:18:06.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level_1.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Level_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level_1.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Level_1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level_1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:45:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewBehaviourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:33:47.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonPress.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\ButtonPress.cs",
+              "RelativeDocumentMoniker": "Assets\\ButtonPress.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\ButtonPress.cs",
+              "RelativeToolTip": "Assets\\ButtonPress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:46:31.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teleport_Menu.cs",
+              "DocumentMoniker": "F:\\Tafe\\Intro to Games\\ATO3_Cabin_In_The_Woods\\Assets\\Scripts\\Teleport_Menu.cs",
+              "ToolTip": "F:\\Tafe\\Intro to Games\\ATO3_Cabin_In_The_Woods\\Assets\\Scripts\\Teleport_Menu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:42:56.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flashlight.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\Flashlight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Flashlight.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\Flashlight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Flashlight.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAmwEsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:35:21.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlickeringLight.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Low Poly Flat Sci Fi Assets\\Demo\\Scripts\\FlickeringLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Low Poly Flat Sci Fi Assets\\Demo\\Scripts\\FlickeringLight.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Low Poly Flat Sci Fi Assets\\Demo\\Scripts\\FlickeringLight.cs",
+              "RelativeToolTip": "Assets\\Low Poly Flat Sci Fi Assets\\Demo\\Scripts\\FlickeringLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T06:35:20.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\Interactable.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World Interactions\\Interactable.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwHUAAABWAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T06:35:20.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoorInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\DoorInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\DoorInteraction.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\DoorInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World Interactions\\DoorInteraction.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwFUAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T06:35:21.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAuwEkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:35:21.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventTriggerCollider.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\EventTriggerCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\EventTriggerCollider.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\EventTriggerCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World Interactions\\EventTriggerCollider.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T06:35:21.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ButtonInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\ButtonInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\ButtonInteraction.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\ButtonInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World Interactions\\ButtonInteraction.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwD8AAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T06:35:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T06:35:21.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Low Poly Flat Sci Fi Assets\\Documentation\\readme.txt",
+              "RelativeDocumentMoniker": "Assets\\Low Poly Flat Sci Fi Assets\\Documentation\\readme.txt",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Low Poly Flat Sci Fi Assets\\Documentation\\readme.txt",
+              "RelativeToolTip": "Assets\\Low Poly Flat Sci Fi Assets\\Documentation\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACgSURBVDhP7ZOxDcMgEEV/olgegFFomYMd6DCDYDoWomUUJnBBhHQhGCTHTto8CR0fcV/3i8Ov3KhCKZVTSqRG5nmG1hqc89pTqEJKmdd1JTWyLAumaYIxZmdyp3qKbdtgrUWMMdPTNYNCMXHOkQIeVCtCCLq9CSGgjVfivBgmKJ/7c8TlCD2nIrT0Ew0Gn0bu\u002BUe4sEwtjDF473dL9SXAEyOmPdqze1w1AAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-05-31T06:35:21.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Interaction.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwC8AAAAVAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T06:35:21.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

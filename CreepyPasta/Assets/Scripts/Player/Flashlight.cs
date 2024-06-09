@@ -26,6 +26,9 @@ public class Flashlight : MonoBehaviour
     private Coroutine CoRo;
     public Image GetChargeBar;
     public bool Actionstarted;
+    public GameObject Charge_Icon_1;
+    public GameObject Charge_Icon_2;
+    public GameObject Charge_Icon_3;
     private void Awake()
     {
         TryGetComponent(out flashLight);
@@ -40,6 +43,7 @@ public class Flashlight : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         if (currentCharge > maxCharge)
         {
             currentCharge = maxCharge;
@@ -69,7 +73,33 @@ public class Flashlight : MonoBehaviour
             }
 
         }
+       
+        if (currentCharge >= 3)
+        {
+            Charge_Icon_3.SetActive(true);
+            Charge_Icon_2.SetActive(true);
+            Charge_Icon_1.SetActive(true);
+        }
+        else if (currentCharge == 2)
+        {
+            Charge_Icon_3.SetActive(false);
+            Charge_Icon_2.SetActive(true);
+            Charge_Icon_1.SetActive(true);
+        }
+        else if (currentCharge == 1)
+        {
+            Charge_Icon_3.SetActive(false);
+            Charge_Icon_2.SetActive(false);
+            Charge_Icon_1.SetActive(true);
+        }
+        else if (currentCharge == 0)
+        {
+            Charge_Icon_3.SetActive(false);
+            Charge_Icon_2.SetActive(false);
+            Charge_Icon_1.SetActive(false);
+        }
     }
+
 
     public void GetCharge()
     {
