@@ -31,6 +31,7 @@ public class Flashlight : MonoBehaviour
     public GameObject Charge_Icon_3;
     public GameObject Hold_E;
     public GameObject Battery;
+    public GameObject Battery2;
     private void Awake()
     {
         TryGetComponent(out flashLight);
@@ -114,16 +115,27 @@ public class Flashlight : MonoBehaviour
 
         }
     }
-
+            
     public void GetBattery()
     {
-        //if (Input.GetKeyUp(KeyCode.E))
-        //{
-        Debug.Log("Charge Added");
+        Debug.Log("charge+");
         currentCharge += 1;
         Battery.gameObject.SetActive(false);
-        //}
+        
+      
+        
     }
+    public void GetBattery2()
+    {
+        Debug.Log("charge+");
+        currentCharge += 1;
+        Battery2.gameObject.SetActive(false);
+
+
+
+    }
+
+
 
     private IEnumerator ChargeRoutine()
     {
