@@ -29,6 +29,8 @@ public class Flashlight : MonoBehaviour
     public GameObject Charge_Icon_1;
     public GameObject Charge_Icon_2;
     public GameObject Charge_Icon_3;
+    public GameObject Hold_E;
+    public GameObject Battery;
     private void Awake()
     {
         TryGetComponent(out flashLight);
@@ -104,7 +106,7 @@ public class Flashlight : MonoBehaviour
     public void GetCharge()
     {
 
-        CoRo = StartCoroutine(ChargeRoroutine());
+        CoRo = StartCoroutine(ChargeRoutine());
         Actionstarted = true;
         if (holdInteract >= interactTime)
         {
@@ -112,7 +114,18 @@ public class Flashlight : MonoBehaviour
 
         }
     }
-    private IEnumerator ChargeRoroutine()
+
+    public void GetBattery()
+    {
+        //if (Input.GetKeyUp(KeyCode.E))
+        //{
+        Debug.Log("Charge Added");
+        currentCharge += 1;
+        Battery.gameObject.SetActive(false);
+        //}
+    }
+
+    private IEnumerator ChargeRoutine()
     {
         while (!Input.GetKeyUp(KeyCode.E))
         {
@@ -125,13 +138,16 @@ public class Flashlight : MonoBehaviour
 
                 holdInteract = 0;
                 GetChargeBar.fillAmount = 0;
+                Hold_E.SetActive(false);
                 break;
-
             }
             yield return null;
-            StopCoroutine(ChargeRoroutine());
-           
         }
+
+        // This should handle when E is released before full charge
+        holdInteract = 0;
+        GetChargeBar.fillAmount = 0;
+        Hold_E.SetActive(false);
     }
     public void ToggleFlashLight(bool toggle)
     {

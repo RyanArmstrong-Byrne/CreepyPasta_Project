@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|c:\\users\\ryana\\documents\\github\\creepypasta_project\\creepypasta\\assets\\scripts\\to_level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|c:\\users\\ryana\\documents\\github\\creepypasta_project\\creepypasta\\assets\\scripts\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Switch-randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Switch-randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\player\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\to_level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\to_level_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ryana\\documents\\github\\creepypasta_project\\creepypasta\\assets\\scripts\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\newbehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\player\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\flashlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50E76E63-2078-9115-B146-39D8A704A730}|Assembly-CSharp.csproj|C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,6 +82,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "randomizer.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\randomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\randomizer.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\randomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\randomizer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:36:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Switch-randomizer.cs",
+              "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Switch-randomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Switch-randomizer.cs",
+              "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Switch-randomizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Switch-randomizer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:53:39.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "To_Level_1.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\To_Level_1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\To_Level_1.cs",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "Assets\\Scripts\\To_Level_1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:18:06.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T02:18:06.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Level_1.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Level_1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Level_1.cs",
@@ -97,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "NewBehaviourScript.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\NewBehaviourScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NewBehaviourScript.cs",
@@ -109,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ButtonPress.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\ButtonPress.cs",
               "RelativeDocumentMoniker": "Assets\\ButtonPress.cs",
@@ -121,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Teleport_Menu.cs",
               "DocumentMoniker": "F:\\Tafe\\Intro to Games\\ATO3_Cabin_In_The_Woods\\Assets\\Scripts\\Teleport_Menu.cs",
               "ToolTip": "F:\\Tafe\\Intro to Games\\ATO3_Cabin_In_The_Woods\\Assets\\Scripts\\Teleport_Menu.cs",
@@ -131,19 +162,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Flashlight.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\Flashlight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Flashlight.cs",
               "ToolTip": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\Flashlight.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Flashlight.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAmwEsAAAAHAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAIwIAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T06:35:21.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FlickeringLight.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Low Poly Flat Sci Fi Assets\\Demo\\Scripts\\FlickeringLight.cs",
               "RelativeDocumentMoniker": "Assets\\Low Poly Flat Sci Fi Assets\\Demo\\Scripts\\FlickeringLight.cs",
@@ -155,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\Interactable.cs",
@@ -167,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DoorInteraction.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\DoorInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\DoorInteraction.cs",
@@ -179,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -191,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "EventTriggerCollider.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\EventTriggerCollider.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\EventTriggerCollider.cs",
@@ -203,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ButtonInteraction.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\World Interactions\\ButtonInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\World Interactions\\ButtonInteraction.cs",
@@ -215,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
@@ -227,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Low Poly Flat Sci Fi Assets\\Documentation\\readme.txt",
               "RelativeDocumentMoniker": "Assets\\Low Poly Flat Sci Fi Assets\\Documentation\\readme.txt",
@@ -239,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Interaction.cs",
               "DocumentMoniker": "C:\\Users\\ryana\\Documents\\GitHub\\CreepyPasta_Project\\CreepyPasta\\Assets\\Scripts\\Player\\Interaction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction.cs",
